@@ -2,7 +2,7 @@ export const personalData = {
   name: "FAISAL FAJAR RAMADHAN",
   profile: '/profileV1.png',
   designation: "Web Developer",
-  description: "My name is FAISAL FAJAR RAMADAHAN. Fresh graduate dari jurusan Informatika, Institut Teknologi Nasional Bandung, dengan keahlian khusus dalam pengembangan web. Memiliki pengalaman praktik melalui proyek kampus dan pribadi, serta magang yang relevan. Memiliki kemampuan pemrograman dan manajemen basis data. Selain daripada itu, memiliki kemampuan interpersonal yang baik seperti komunikasi dan kerja sama. Saat in memiliki keinginan untuk mengembangkan kemampuan pengembangan web di lingkup profesional.",
+  description: "I am Faisal Fajar Ramadhan, a fresh graduate with a degree in Informatics from Bandung Institute of Technology. I have experience in website development, mastering both Back-End and Front-End technologies such as PHP, MySQL, HTML, CSS, JavaScript, as well as the Laravel and CodeIgniter frameworks. Experienced in handling various projects, both front-end and back-end, I possess expertise in designing and developing efficient, scalable, and user-friendly web applications. Furthermore, I have strong interpersonal skills, including communication and teamwork. With a focus on performance optimization and user experience, I am ready to contribute to the development of innovative web applications that meet business needs in a professional setting.",
   email: 'faisalramadhan733@gmail.com',
   phone: '+62 81904419386',
   address: 'Kp. Pagutan, Cianjur',
